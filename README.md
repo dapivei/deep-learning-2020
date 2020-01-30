@@ -1,1 +1,1 @@
-# deel-learning-2020
+# deep-learning-2020
