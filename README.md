@@ -1,8 +1,7 @@
 # deep-learning-2020
 
 
-- [X] Tarea 01: Perceptrón:
--> Imágenes
--> Pdf de respuestas
--> Jupyterlab
+- [X] Tarea 01: Perceptron
+
+- [] Tarea 02: Multilayer Perceptron
 
