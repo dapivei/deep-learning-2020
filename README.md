@@ -3,5 +3,5 @@
 
 - [X] Tarea 01: Perceptron
 
-- [] Tarea 02: Multilayer Perceptron
+- [ ] Tarea 02: Multilayer Perceptron
 
