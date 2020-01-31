@@ -1,4 +1,4 @@
-# deep-learning-2020
+# Deep Learning 2020
 
 
 - [X] Tarea 01: Perceptron
