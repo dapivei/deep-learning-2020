@@ -8,7 +8,7 @@ Relación entre Inteligencia Artificial, Aprendizaje de Máquina y Aprendizaje p
 
 
 <p align="center">
-  <image width="600" height="400" src="ttps://github.com/dapivei/deep-learning-2020/tree/master/images/ai_ml_dl.png">
+  <image width="600" height="400" src="https://github.com/dapivei/deep-learning-2020/tree/master/images/ai_ml_dl.png">
 </p>
 
 
