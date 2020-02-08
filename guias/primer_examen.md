@@ -93,10 +93,11 @@ Podemos pensar en el *problema de regresión*  de la siguiente manera: tenemos u
 
 Los parámetros son los que el modelo emplea para hacer predicciones; por ejemplo, el peso de los coeficientes en una regresión lineal.  
 
-
 Los hiperparámetros son los que ayudan con el proceso de aprendizaje. Por ejemplo, el número de clusters en K-means, el factor de  For example, number of clusters in K-Means, el factor de penalización en la regresión de Ridge. Los hiperparámetros no aparecen al final de predicción, pero tienen una gran influencia sobre los valores de los parámetros después del aprendizaje.
 
 **5. Perceptrón, concepto e idea. ¿Qué modela? ¿Cómo calculo el número de parámetros en una red neuronal? ¿Qué tengo que considerar al momento de determinar el número de parámetros de una red neuronal?**
+
+
 
 
 **6.Foward propagation, backward propagation, intuición de la regla de la cadena. Ejemplo: Si tengo una red de este tipo, ¿qué nodos o parámetros debo considerar en el ajuste de tal parámetro?**
@@ -109,7 +110,71 @@ Es por eso que sigmoide no es una buena función de activación por los problema
 
 **8. Las funciones de activación. ¿Cuándo conviene usar una, cuándo conviene usar otra?**
 
++ Sigmoide
+
++ ReLU
+
++ Leaky ReLU
+
++ Exponential Linear Unit (ELU)
+
++ Soft Plus
+
++ Maxout
+
++ Softmax
+
+
 **9. Optimizadores.**
 
++ Gradiente Descent (GD): El descenso de gradiente es un algoritmo de optimización utilizado para minimizar algunas funciones moviéndose iterativamente en la dirección del descenso más pronunciado, según lo definido por el negativo del gradiente. En aprendizaje profundo, utilizamos el descenso de gradiente para actualizar los parámetros de nuestro modelo. Los parámetros se refieren a coeficientes en regresión lineal y pesos en redes neuronales.
+
+$$\Omega = \Omega - \eta \delta J(\Omega)$$ 
+
+$$w_{i}=w_{i} - \eta \frac{\partial E}{\partial w_{i}$$
+
+$\eta$ es tasa de aprendizaje (hiperparámetros)
+
++ Stochastic Gradiente Descent (SGD)
+
+
+
+
++ Minibatch SGD
+
+Uso de momentos...
+
++ Momentum
+
++ Nesterov Accelerated Gradient (NAG)
+
++ Adaptive Gradiente (AdaGrad)
+
++ Adadelta
+
++ RMS propagation
+
++ Adam: Adaptive moment estimation
+
+
 **10. Las funciones de pérdidas: ¿cuándo conviene usar una?, ¿cuándo conviene usar otra?**
+
+
+Para regresión:
+
++ MSE
+
++ MAE
+
++ Huber loss
+
+Para clasificación:
+
++ Categorical cross entropy
+
++ Binary Cross Entropy
+
++ Divergencia Kull Back Leiber (DKL)
+
++ Hinge
 
