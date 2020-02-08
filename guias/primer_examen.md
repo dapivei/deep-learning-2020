@@ -17,7 +17,7 @@ Relación entre Inteligencia Artificial, Aprendizaje de Máquina y Aprendizaje p
 Esta pregunta abre la puerta a un nuevo paradigma de programación. En la programación clásica, el paradigma de la IA simbólica, los humanos ingresan las reglas (un programa) y los datos que se procesarán de acuerdo con estas reglas, y salen las respuestas. *Con el aprendizaje automático, los humanos ingresan datos, así como las respuestas esperadas de los datos, y salen las reglas. Estas reglas se pueden aplicar a los nuevos datos para producir respuestas originales.*
 
 <p align="center">
-  <image width="600" height="300" src="https://github.com/dapivei/deep-learning-2020/blob/master/images/ai_ml.png">
+  <image width="600" height="250" src="https://github.com/dapivei/deep-learning-2020/blob/master/images/ai_ml.png">
 </p>
 
 
@@ -54,7 +54,7 @@ Los modelos de Deep Learning se entrenan mediante el uso de extensos conjuntos d
 
 
 <p align="center">
-  <image width="600" height="400" src="https://github.com/dapivei/deep-learning-2020/blob/master/images/nn_1.png">
+  <image width="600" height="300" src="https://github.com/dapivei/deep-learning-2020/blob/master/images/nn_1.png">
 </p>
 
 <p align="center">
@@ -117,5 +117,3 @@ Es por eso que sigmoide no es una buena función de activación por los problema
 
 **10.** Las funciones de pérdidas: ¿cuándo conviene usar una?, ¿cuándo conviene usar otra?
 
-
-**7.**
