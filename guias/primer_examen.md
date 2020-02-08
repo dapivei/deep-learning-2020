@@ -6,7 +6,11 @@
 
 Relación entre Inteligencia Artificial, Aprendizaje de Máquina y Aprendizaje profundo
 
-![Relación AI, ML y DL](https://github.com/dapivei/deep-learning-2020/tree/master/images)
+
+<p align="center">
+  <image width="600" height="400" src="ttps://github.com/dapivei/deep-learning-2020/tree/master/images">
+</p>
+
 
 
 + Inteligencia Artificial: Un esfuerzo por automizatizar tareas intelectuales normalmente desarrolladas por humanos. Como tal, la IA es un campo general que abarca el aprendizaje automático y el aprendizaje profundo, pero que también incluye muchos más enfoques que no implican ningún aprendizaje.
