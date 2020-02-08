@@ -73,19 +73,15 @@ Podemos pensar en el *problema de clasificación* de la siguiente manera: dado u
 
 Para ello, empleamos la ecuación de la recta:
 
-$$Y=\omega_{1}x_{1}+ \omega_{2}x_{2}+\underbrace{b}_{\omega_{0}x_{0}}$$
-
-Donde:
-
-* $Y$ es la etiqueta
-
-* $x_{0}$ es igual a $1$
-
-* queremos aprender un parámetros de $\omega_{0}$
+<p align="center">
+  <image width="400" height="200" src="https://github.com/dapivei/deep-learning-2020/blob/master/images/ecuacion_general.png">
+</p>
 
 Ecuación que podemos generalizar en términos de algebra lineal:
 
-$$Y=WX$$
+<p align="center">
+  <image width="100" height="100" src="https://github.com/dapivei/deep-learning-2020/blob/master/images/ecuacion_general_matricial.png">
+</p>
 
 Podemos pensar en el *problema de regresión*  de la siguiente manera: tenemos un *set* de datos, que no están clasificados, y tenemos una línea que aproxima a los datos; esa línea se puede estimar con la misma ecuación general, con la única diferencia que $Y$ es un número real.
 
