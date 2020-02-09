@@ -11,20 +11,20 @@ Relación entre Inteligencia Artificial, Aprendizaje de Máquina y Aprendizaje p
   <image width="600" height="400" src="https://github.com/dapivei/deep-learning-2020/blob/master/images/ai_ml_dl.png">
 </p>
 
-+ Inteligencia Artificial(IA): Un esfuerzo por automizatizar tareas intelectuales normalmente desarrolladas por humanos. Como tal, la IA es un campo general que abarca el aprendizaje automático y el aprendizaje profundo, pero que también incluye muchos más enfoques que no implican ningún aprendizaje.
++ Inteligencia Artificial(IA): Un esfuerzo por automatizar tareas intelectuales normalmente desarrolladas por humanos. Como tal, la IA es un campo general que abarca el aprendizaje automático y el aprendizaje profundo, pero que también incluye muchos más enfoques que no implican ningún aprendizaje.
 
-+ Aprendizaje de Máquina: El aprendizaje de máquina surge de esta pregunta: ¿podría una computadora ir más allá de “lo que sabemos cómo ordenar que realice” y aprender por sí misma cómo realizar una tarea específica? ¿Podría una computadora sorprendernos? En lugar de que los programadores elaboren reglas de procesamiento de datos a mano, ¿podría una computadora aprender estas reglas automáticamente al observar los datos?
-Esta pregunta abre la puerta a un nuevo paradigma de programación. En la programación clásica, el paradigma de la IA simbólica, los humanos ingresan las reglas (un programa) y los datos que se procesarán de acuerdo con estas reglas, y salen las respuestas. *Con el aprendizaje automático, los humanos ingresan datos, así como las respuestas esperadas de los datos, y salen las reglas. Estas reglas se pueden aplicar a los nuevos datos para producir respuestas originales.*
++ Aprendizaje de Máquina: El aprendizaje de máquina surge de esta pregunta: ¿podría una computadora ir más allá de “lo que sabemos cómo ordenar que realice” y aprender por sí misma cómo realizar una tarea específica? ¿Podría una computadora sorprendernos? En lugar de que los programadores elaboren reglas de procesamiento de datos a mano, ¿podría una computadora aprender estas reglas automáticamente al observar los datos? Esta pregunta abre la puerta a un nuevo paradigma de programación. 
+
+En la programación clásica, el paradigma de la IA simbólica, los humanos ingresan las reglas (un programa) y los datos que se procesarán de acuerdo con estas reglas, y salen las respuestas. *Con el aprendizaje automático, los humanos ingresan datos, así como las respuestas esperadas de los datos, y salen las reglas. Estas reglas se pueden aplicar a los nuevos datos para producir respuestas originales.*
 
 <p align="center">
   <image width="600" height="250" src="https://github.com/dapivei/deep-learning-2020/blob/master/images/ai_ml.png">
 </p>
 
 
-Un sistema de aprendizaje de máquina se entrena en lugar de programarse explícitamente. Se presenta con muchos ejemplos relevantes para una tarea, y encuentra estructura estadística en estos ejemplos que eventualmente permite que el sistema presente reglas para automatizar la tarea.
+Es decir, un sistema de aprendizaje de máquina se entrena en lugar de programarse explícitamente. Se presenta con muchos ejemplos relevantes para una tarea, y encuentra estructura estadística en estos ejemplos que eventualmente permite que el sistema presente reglas para automatizar la tarea.
 
-
-El l aprendizaje de máquina descubre reglas para ejecutar una tarea de procesamiento de datos, dados ejemplos de lo que se espera. Entonces, para hacer aprendizaje automático, necesitamos tres cosas:
+El aprendizaje de máquina descubre reglas para ejecutar una tarea de procesamiento de datos, dados ejemplos de lo que se espera. Entonces, para hacer aprendizaje automático, necesitamos tres cosas:
 
 + Puntos de datos de entrada: por ejemplo, si la tarea es el reconocimiento de voz, estos puntos de datos podrían ser archivos de sonido de personas que hablan. Si la tarea es el etiquetado de imágenes, podrían ser imágenes.
 + Ejemplos de la salida esperada: en una tarea de reconocimiento de voz, estas podrían ser transcripciones de archivos de sonido generadas por humanos. En una tarea de imagen, los resultados esperados podrían ser etiquetas como "perro", "gato", etc.
@@ -37,7 +37,6 @@ Todos los algoritmos de aprendizaje automático consisten en encontrar automáti
 
 Los algoritmos de aprendizaje de máquina no suelen ser creativos en
 encontrar estas transformaciones; simplemente están buscando a través de un conjunto predefinido de operaciones, llamado espacio de hipótesis. Entonces, eso es el aprendizaje automático, técnicamente: *buscar representaciones útiles de algunos datos de entrada, dentro de un espacio predefinido de posibilidades, utilizando la guía de una señal de retroalimentación.*
-
 
 + Deep Learning:
 
