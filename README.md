@@ -4,7 +4,7 @@
 
 - [X] Tarea 01: Perceptrón
 
-- [ ] Tarea 02: Perceptrón Multicapas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dapivei/deep-learning-2020/master)
+- [X] Tarea 02: Perceptrón Multicapas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dapivei/deep-learning-2020/master)
 
 - [X] Tarea 03: Optimizadores
 
