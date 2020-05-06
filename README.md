@@ -4,7 +4,7 @@
 
 - [X] [Tarea 01](https://github.com/dapivei/deep-learning-2020/tree/master/tarea01): Perceptrón
 
-- [X] [Tarea 02](https://github.com/dapivei/deep-learning-2020/tree/master/tarea02): Perceptrón Multicapas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dapivei/deep-learning-2020/master
+- [X] [Tarea 02](https://github.com/dapivei/deep-learning-2020/tree/master/tarea02): Perceptrón Multicapas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dapivei/deep-learning-2020/master)
 
 - [X] [Tarea 03](https://github.com/dapivei/deep-learning-2020/tree/master/tarea03):Optimizadores
 
