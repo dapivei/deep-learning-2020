@@ -20,3 +20,5 @@
 
 - [X] Tarea 09: Autoencoders
 
+- [X] Proyecto final: StackGAN. From text to images: FLICKER8K DATASET
+
