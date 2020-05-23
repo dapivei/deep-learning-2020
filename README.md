@@ -20,4 +20,4 @@
 
 - [X] [Tarea 09](https://github.com/dapivei/deep-learning-2020/tree/master/tarea09): Autoencoders
 
-- [X] Proyecto final: StackGAN. From text to images: FLICKER8K DATASET
+- [X] Proyecto final: StackGAN. From text to images: FLICKER8K DATASET.
